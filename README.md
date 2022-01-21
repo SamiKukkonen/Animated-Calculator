@@ -1,2 +1,2 @@
-# Calc
+# Animated Calculator
 Animated Calculator
